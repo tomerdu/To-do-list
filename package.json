@@ -1,0 +1,11 @@
+{
+  "name": "toDoList",
+  "version": "1.0.0",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "create-react-app": "^5.0.1",
+    "express": "^4.18.2",
+    "react": "^18.2.0",
+    "uuid": "^9.0.0"
+  }
+}
